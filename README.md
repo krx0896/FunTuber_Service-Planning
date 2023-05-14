@@ -13,45 +13,45 @@
 
 먼저 52명을 대상으로 유튜브에 대한 설문을 조사하였다.  
 
-<img src="./hackathon/static/img/logo.png" width="200px" height="67px"> 성별 비율은 대략 5:5 였으며 나이 또한 다양한 나이의 사람들이 설문에 참여하여 편향되지 않았 다. 
+<img src="./image/FT1.png"> 성별 비율은 대략 5:5 였으며 나이 또한 다양한 나이의 사람들이 설문에 참여하여 편향되지 않았 다. 
 
 2) 표본집단으로 본 특징 
 
-<img src="./hackathon/static/img/logo.png" width="200px" height="67px">
+<img src="./image/FT2.png">
 
 대략 83%의 사람들이 유튜브를 하루 평균 1시간이상 유튜브를 시청하는 것을 확인할 수 있었다. 이를 통해 대부분의 사람들이 유튜브에 관심이 많다고 결론내었다. 
 
-<img src="./hackathon/static/img/logo.png" width="200px" height="67px">
+<img src="./image/FT3.png">
 
 관심있는 유튜브 콘텐츠를 확인한 결과 음악 콘텐츠, 음식 콘텐츠, 지식 콘텐츠, 토크 콘텐츠, 코 메디 콘텐츠를 많이 시청하는 것을 볼 수 있었다. 이를 통해 플랫폼 투자 활성화 분야를 사람들 이 관심 있는 콘텐츠 카테고리에 더 많은 가중치를 두면 좋겠다고 생각했다. 
 
-<img src="./hackathon/static/img/logo.png" width="200px" height="67px">
+<img src="./image/FT4.png">
 
 약 64% 이상의 사람들이 유튜브를 시청하며 콘텐츠 대비 유튜버의 인지도가 부족하다고 느꼈다 고 대답하였다. 
 
-<img src="./hackathon/static/img/logo.png" width="200px" height="67px">
+<img src="./image/FT5.png">
 
 이렇게 느낀 이유는 ‘콘텐츠가 많지 않고 업로드 주기가 길기 때문에’라고 답하였다. 이를 통해 이런 콘텐츠 대비 인지도가 부족한 유튜버들한테 투자가 이루어진다면 ‘콘텐츠도 많아지고 업로 드 주기도 높아질 것이다’라는 가설을 세웠다. 
 
-<img src="./hackathon/static/img/logo.png" width="200px" height="67px">
+<img src="./image/FT6.png">
 
 과반수 이상의 사람들이 유튜버에게 투자할 의향이 있다고 답하였다. 
 
-<img src="./hackathon/static/img/logo.png" width="200px" height="67px">
+<img src="./image/FT7.png">
 
 팬심으로 투자할 것 같다라는 사람이 약 60%로 이는 플랫폼의 굿즈형 투자 기능에도 영향을 미 칠 것이라 판단하였다. 
 
-<img src="./hackathon/static/img/logo.png" width="200px" height="67px">
+<img src="./image/FT8.png">
 
 약 57%의 사람들이 투자를 1만원~10만원 사이로 한다고 하였기 때문에 유저들의 첫 결제는 소 액의 금액으로 투자할 것이라 예상하였다. 
 
-<img src="./hackathon/static/img/logo.png" width="200px" height="67px">
+<img src="./image/FT9.png">
 
 그리고 과반수 이상의 유저들이 0~10%의 수익이 날 경우 투자할 것이라고 답하였는데 이는 수 익이 보장된다면 투자할 의향이 어느정도 있다라고 판단하였다.  
 
 이렇게 위의 두가지 지표로 판단하여 유저들은 첫 투자를 소액으로 할 것이고 첫 투자때 수익을 볼 경우 지속적으로 투자를 더 할 것이라는 가정을 세웠다. 이를 통해 이 플랫폼의 논리적 선향 지표는 첫 투자에 이익을 보는 것이 가장 중요한 지표로 판단하였고 플랫폼 개발 때 첫 투자 고 객들에게 안전하면서 수익이 어느정도 보장되는  투자를  추천해주는 알고리즘을  구현해야겠다고 판단하였다. 
 
-<img src="./hackathon/static/img/logo.png" width="200px" height="67px">
+<img src="./image/FT10.png">
 
 마지막으로 절반의 사람들이 굿즈를 살 의향이 있다고 답하였다.  
 
@@ -59,19 +59,19 @@
 
 설문조사를 통해 설정한 가설들을 토대로 와이어 프레임을 통해 프로토타입을 제작하였다.  
 
-<img src="./hackathon/static/img/logo.png" width="200px" height="67px">
+<img src="./image/FT11.png">
 
 먼저 메인 페이지로 모든 플랫폼의 기능을 한눈에 볼 수 있어 유저들이 어떻게 플랫폼을 사용하 는지 확인 할 수 있다. 메인 기능들은 바로 하단바에 배치하였다. 검색창에는 필터기능을 통해 원 하는 검색을 할 수 있으며 검색 랭킹을 통해 유저들의 유입을 증대 시킬 수 있다. 
 
-<img src="./hackathon/static/img/logo.png" width="200px" height="67px">
+<img src="./image/FT12.png">
 
 검색을 하면 상단바에서 투자형 기능과 굿즈형 기능을 볼 수 있다. 투자형 기능을 들어가게 되면 투자 설명서를 포함한 투자에 대한 정보들, 투자 위험도를 포함한 종합 평가도, 이때까지 투자한 사람 정보를 다 볼 수 있다. 이를 통해 투자자들에게 투자할 때 이 콘텐츠에 대해 판단할 수 있 는 지표를 제공하여 쉽게 펀딩할 수 있게 해주며 펀딩바를 하단에 고정해놔서 바로 펀딩으로 이 루어 지게 끔 배치하였다.  
 
-<img src="./hackathon/static/img/logo.png" width="200px" height="67px">
+<img src="./image/FT13.png">
 
 굿즈형 투자 기능에서는 투자의 목적보다는 유튜버의 팬심으로 투자하는 고객이 더 많기 때문에 투자형 기능과 다르게 굿즈에 대한 소개를 위에선 간략하게 요약으로 보여준다. 굿즈는 이미지가 가장 중요하다고 판단하였고 이미지를 본 고객들은 바로 펀딩할 것이라 생각하여 이미지란을 좀 더 크게 배열하였다. 
 
-<img src="./hackathon/static/img/logo.png" width="200px" height="67px">
+<img src="./image/FT14.png">
 
 마지막으로 커뮤니티 기능을 통해 이 플랫폼에 관심을 가지는 유저들과 소통이 가능하며 이를 통 해 다양한 후기와 유튜버에 대한 정보를 찾을 수 있다. 마이페이지에서는 내가 참여했던 투자와 이미 종료된 투자 현황을 볼 수 있으며 이 페이지에 들어갈 경우 수익률과 같은 마이데이터를 시 각화하여 보여주므로 내 투자 성향을 볼 수 있다. 
 
@@ -93,3 +93,7 @@ Project term : 2022.05.01 ~ 2022.05.21 </br>
 
 **UI/UX 디자인**
 > 김윤성
+
+### Link
+- 피그마 와이어 프레임 UI 링크
+https://www.figma.com/file/8PzWunOuDnuhNykryXS1dr/%EC%9C%A0%ED%8A%9C%EB%B2%84-%ED%88%AC%EC%9E%90%ED%94%8C%EB%9E%AB%ED%8F%BC-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EC%99%80%EC%9D%B4%EC%96%B4-%ED%94%84%EB%A0%88%EC%9E%84?node-id=0%3A1 
