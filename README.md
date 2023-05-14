@@ -96,4 +96,5 @@ Project term : 2022.05.01 ~ 2022.05.21 </br>
 
 ### Link
 - 피그마 와이어 프레임 UI 링크
+
 https://www.figma.com/file/8PzWunOuDnuhNykryXS1dr/%EC%9C%A0%ED%8A%9C%EB%B2%84-%ED%88%AC%EC%9E%90%ED%94%8C%EB%9E%AB%ED%8F%BC-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EC%99%80%EC%9D%B4%EC%96%B4-%ED%94%84%EB%A0%88%EC%9E%84?node-id=0%3A1 
